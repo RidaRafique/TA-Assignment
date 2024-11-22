@@ -1,0 +1,4 @@
+Skills or topics I want to learn in the next semester:
+Python
+OOP
+Quantum Computing
