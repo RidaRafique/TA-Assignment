@@ -1,0 +1,5 @@
+This is Rida.
+I have a talent for solving problems and analyzing situations, especially when it comes to coding in C 
+and exploring some basic Python. I enjoy calculations and figuring things out logically, which helps me
+a lot in programming and other tasks. Outside of that, I love getting creative with crafts and projects
+like painting—it’s a fun way to express myself and take a break from the technical stuff!
